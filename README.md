@@ -4,22 +4,22 @@ This code follows recursion.
 It is console application where the application runs locally from command prompt.
 
 
-#Steps to run locally(For Netbeans IDE).
+# Steps to run locally(For Netbeans IDE).
 
 
 
-#1. Open a command prompt window and go to the directory where you saved the java program (MyJavaProgram.java).
+### 1. Open a command prompt window and go to the directory where you saved the java program (MyJavaProgram.java).
 
-#2. Type 'javac -d . MyJavaProgram.java' and press enter to compile your code. If there are no errors in your code, the command prompt will take you to the next line (Assumption: The path variable is set).
+### 2. Type 'javac -d . MyJavaProgram.java' and press enter to compile your code. If there are no errors in your code, the command prompt will take you to the next line (Assumption: The path variable is set).
 
-#3. Now, type 'java packagename.MyJavaProgram ' to run your program.
+### 3. Now, type 'java packagename.MyJavaProgram ' to run your program.
 
-#4. You will now be able to see output.
+### 4. You will now be able to see output.
 
 
 ![Capture1](https://user-images.githubusercontent.com/50027521/87566793-1c1faa80-c6e1-11ea-9649-554d0eb5b6a9.PNG)
 
-#Steps to run locally(For Eclipse IDE).
+# Steps to run locally(For Eclipse IDE).
 
 #1. Open a command prompt window and go to the directory where you saved the java program (MyJavaProgram.java).
 
@@ -29,3 +29,8 @@ It is console application where the application runs locally from command prompt
 
 #4. You will now be able to see output.
 
+# Code Coverage
+
+I have uploaded a file NumberToWord.java which performs code coverage using JUnit in Eclipse upto 95.6 %
+
+![Coverage](https://user-images.githubusercontent.com/50027521/87580282-e5538f80-c6f4-11ea-9f24-c7b6eb2382d6.PNG)
