@@ -12,7 +12,9 @@ It is console application where the application runs locally from command prompt
 
 #2. Type 'javac -d . MyJavaProgram.java' and press enter to compile your code. If there are no errors in your code, the command prompt will take you to the next line (Assumption: The path variable is set).
 
-#3. Now, type 'java MyJavaProgram ' to run your program.
+#3. Now, type 'java packagename.MyJavaProgram ' to run your program.
 
 #4. You will now be able to see output.
 
+
+![Capture1](https://user-images.githubusercontent.com/50027521/87566793-1c1faa80-c6e1-11ea-9649-554d0eb5b6a9.PNG)
