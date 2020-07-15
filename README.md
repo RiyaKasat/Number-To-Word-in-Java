@@ -1,4 +1,4 @@
-# Console Application for Number-To-Word-in-Java
+# Console Application for Number-To-Word in Java
 Following is the implementation. This code supports numbers up-to 6 digits, i.e., numbers from Min Value 00 to Max Value 9,99,999.99. Idea is to create arrays that store individual parts of output strings. One array is used for single digits and  numbers from 10 to 19, one for 20, 30, 40, 50, .. etc.
 This code follows recursion.
 It is console application where the application runs locally from command prompt.
